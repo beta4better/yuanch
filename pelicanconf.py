@@ -6,8 +6,7 @@ AUTHOR = 'Charles Yuan'
 SITENAME = 'Charles Lab'
 SITEURL = ''
 
-THEME = 'themes/MinimalXY'
-#THEME ='themes/attila'
+THEME ='pelican-themes/attila'
 
 PATH = 'content'
 TAG_CLOUD = True
@@ -17,8 +16,8 @@ TAG_CLOUD_BADGE = True
 TAG_CLOUD_SORTING = 'size'
 
 # Plugins
-PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["tag_cloud"]
+PLUGIN_PATHS = ["pelican-plugins"]
+PLUGINS = ["tag_cloud", "neighbors"]
 
 TIMEZONE = 'Asia/Shanghai'
 
