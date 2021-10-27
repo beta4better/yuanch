@@ -6,7 +6,7 @@ AUTHOR = 'Charles Yuan'
 SITENAME = 'Charles Lab'
 SITEURL = ''
 
-THEME ='pelican-themes/attila'
+THEME ='pelican-themes/svbtle'
 
 PATH = 'content'
 TAG_CLOUD = True
