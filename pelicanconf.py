@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Charles Yuan'
-SITENAME = 'Charles Lab'
+SITENAME = '好奇-求知'
 SITEURL = ''
 
 THEME ='pelican-themes/svbtle'
