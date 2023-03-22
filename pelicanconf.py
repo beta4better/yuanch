@@ -6,7 +6,7 @@ AUTHOR = 'Charles Yuan'
 SITENAME = '好奇-求知'
 SITEURL = ''
 
-THEME ='pelican-themes/svbtle'
+THEME ='pelican-themes/attila'
 
 PATH = 'content'
 TAG_CLOUD = True
